@@ -1,6 +1,6 @@
 {
   "name": "use-confetti-svg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "iankberry/use-confetti-svg",
   "description": "React hook to display a confetti animation with a custom SVG particle image",
   "main": "dist/index.js",
