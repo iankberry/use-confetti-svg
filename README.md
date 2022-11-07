@@ -22,7 +22,7 @@ npm install --save use-confetti-svg
 npm run example
 ```
 
-[![Edit react-tour-callout](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/react-tour-callout-uxilky?fontsize=14&hidenavigation=1&theme=dark)
+[![Edit use-confetti-svg example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/use-confetti-svg-example-s017kn?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Reference
 
